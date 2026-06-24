@@ -86,7 +86,7 @@ button{cursor:pointer}
   top:0;
   width:300px;
   height:100%;
-  background:white;
+  background-color:pink;
   padding:15px;
   transform:translateX(100%);
   transition:0.3s;
@@ -175,7 +175,7 @@ button{cursor:pointer}
 }
 
 .msg{
-  background:white;
+  background:green;
   margin:5px;
   padding:8px;
   border-left:4px solid green;
